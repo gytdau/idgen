@@ -1,6 +1,6 @@
 # IDGen
 
-IDGen is a gem for generating easy-to-remember IDs out of nouns, adjectives and verbs.
+IDGen is a gem for generating easy-to-remember IDs out of nouns, adjectives and verbs. [It's available on Ruby Gems](https://rubygems.org/gems/idgen/versions/1.0).
 
 ## Installation
 
