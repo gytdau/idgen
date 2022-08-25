@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Gytis Daujotas"]
   spec.email         = ["gytdau@gmail.com"]
 
-  spec.summary       = %q{A gem for generating easy-to-remember IDs out of nouns, adjectives and verbs.}
+  spec.summary       = %q{Nondeterministic identifier generation for databases and distributed applications. Supports secure, nonrepeatable identifiers according to developer-defined templates.}
   spec.homepage      = "https://github.com/gytdau/idgen"
   spec.license       = "MIT"
 
